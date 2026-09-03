@@ -44,6 +44,23 @@ the six answers. If the seed looks weak, the draft would have been weaker — yo
 rewrite. If the seed looks strong, the draft lands on a foundation that survives review
 six months later.
 
+## The QC series — the two-station discipline at length
+
+This skill is one of two inspection stations in a discipline whose emergent behaviors —
+a corpus that converges instead of drifting, hunts its own flaws before symptoms
+appear, and learns its own shape — are documented in an eight-part series written from
+the production system both skills govern. Part 6 is the article about the two stations
+and the constraints that bind their own builders. Start at Part 1:
+
+1. [The Skill That Grew a Mind](https://comos-federation.com/blog/the-skill-that-grew-a-mind)
+2. [Why "Done" Is the Most Dangerous Word in Software](https://comos-federation.com/blog/why-done-is-the-most-dangerous-word-in-software)
+3. [The Cure Is Cheap Because the Cause Is Close](https://comos-federation.com/blog/the-cure-is-cheap-because-the-cause-is-close)
+4. [Self-Healing Is Search](https://comos-federation.com/blog/self-healing-is-search)
+5. [Question Everything — Especially Your Own Thoughts](https://comos-federation.com/blog/question-everything-especially-your-own-thoughts)
+6. [The Gate Binds Its Own Builders](https://comos-federation.com/blog/the-gate-binds-its-own-builders)
+7. [The Corpus Is a Neural Network](https://comos-federation.com/blog/the-corpus-is-a-neural-network)
+8. [The Quality of Your Aim — The Honesty Ratio Is the Loss Curve](https://comos-federation.com/blog/the-quality-of-your-aim-the-honesty-ratio-is-the-loss-curve)
+
 ## What the skill is, structurally
 
 initiate-change is the **upstream** half of a two-gate discipline:
@@ -167,3 +184,6 @@ stronger as more teams run it.
 - `MIGRATION-TEMPLATE.md` — the migration variant (Q6 first, plus the addendum)
 - [proof-before-done](https://github.com/ronrey/proof-before-done) — the companion skill
   at the artifact-done gate
+- [The QC series](https://comos-federation.com/blog/the-skill-that-grew-a-mind) — eight
+  articles on the emergent behaviors and patterns the two-station discipline produces,
+  written from the production system both skills govern
